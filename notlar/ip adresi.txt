@@ -1,0 +1,2 @@
+192.168.1.131 
+html "C:\Program Files\Google\Chrome\Application\chrome.exe" --single-argument %f
